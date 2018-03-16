@@ -1,1 +1,2 @@
-alert('js file connected');
+var input = document.querySelector('.input');
+
